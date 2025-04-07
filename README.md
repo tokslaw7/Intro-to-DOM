@@ -3,9 +3,10 @@
 
 > Introduction to document.querySelector()
 
-*Create 3 different elements in the body of your html file and log to view*
+* Create 3 different elements in the body of your html file and log to view*
 
 > Introduction to document.querySelectorAll()
+* Create more element with the same name and use querySelectorAll() to match them into one
 
 
 
