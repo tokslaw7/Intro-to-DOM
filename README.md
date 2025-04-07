@@ -3,6 +3,8 @@
 
 > Introduction to document.querySelector()
 
+*Create 3 different elements in the body of your html file and log to view*
+
 > Introduction to document.querySelectorAll()
 
 
